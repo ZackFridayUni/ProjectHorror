@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/f016824o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/f016824o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/f016824o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/f016824o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/bp_Zombie_Parent.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/Dead.uasset",
