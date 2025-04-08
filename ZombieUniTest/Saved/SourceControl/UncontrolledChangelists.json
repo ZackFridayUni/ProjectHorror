@@ -58,6 +58,7 @@
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/I8/U48LR9EXH0LHG0PG0VMODX.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/NewBlueprint.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+<<<<<<< HEAD
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/Speaker.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/KE/MJREEBPENV5URLW1RH0USP.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/B0/QGO6G7IK8TS50EUWRSBEYD.uasset",
@@ -65,6 +66,8 @@
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VT/HW5T016MMCIAKCJTG2P20L.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J9/HQJ14LHMWLOAO3GJWGAF9C.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QW/FLCN3D18OUZJV0UQ26MXUX.uasset",
+=======
+>>>>>>> 1bd7736e5eea22926d661c1e88a8a92a6b6135e2
 				"E:/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"E:/ZombieUniTest/Content/Zombie/bp_Zombie_Parent.uasset",
 				"E:/ZombieUniTest/Content/_Main/HUD/FadeIn.uasset",
@@ -107,6 +110,12 @@
 				"E:/ZombieUniTest/Content/Zombie/Animation/Bite/Zombie_Attack.uasset",
 				"E:/ZombieUniTest/Content/Zombie/Animation/Death/Zombie_Death.uasset",
 				"E:/ZombieUniTest/Content/Zombie/Animation/Death/Zombie_Death_Montage.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/BP_Speaker.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/EK/928BX8LNYJ7JVLBAM9PX6X.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VT/HW5T016MMCIAKCJTG2P20L.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J9/HQJ14LHMWLOAO3GJWGAF9C.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QW/FLCN3D18OUZJV0UQ26MXUX.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/OD/GAFBG9Y27BSQK7E61XCUJK.uasset",
 				"E:/ZombieUniTest/Content/BSP_ZombieAnims/Maps/Animation_Showcase.umap",
 				"E:/ZombieUniTest/Content/BSP_ZombieAnims/Maps/Animation_Showcase_BuiltData.uasset",
