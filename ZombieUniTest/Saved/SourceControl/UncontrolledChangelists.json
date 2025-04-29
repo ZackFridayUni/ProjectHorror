@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Zombie_Parent.uasset",
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Screamer.uasset",
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Experimented.uasset",
