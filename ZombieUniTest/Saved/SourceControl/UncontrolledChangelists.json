@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+<<<<<<< HEAD
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Zombie_Parent.uasset",
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Screamer.uasset",
 				"C:/Users/zack/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Experimented.uasset",
@@ -23,6 +24,19 @@
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Experimented.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/BP_Enemy_Screamer.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/6J/UWI40BZKM4ZDD44FSD1FOU.uasset",
+=======
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/HUD/BloodEffectPNG.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/HUD/WB_BloodEffect.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/HUD/WB_MainHUD.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/MainMenu/MainMenuMap.umap",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/MainMenu/MenuGamemode.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/MainMenu/WB_MainMenu.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/MainMenu/PlaceholderMainMenuTexture.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/Effects/M_PixelGraphics.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Zombie/bp_Zombie_Parent.uasset",
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/Dead.uasset",
+>>>>>>> UI
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/DL/C4XV5915RHHOMA6VNMRCC7.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MQ/ER7JSWSDEPUTPP1JGUYKUD.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MC/A9R2QRXUNAYXY7IH6AI2Q8.uasset",
