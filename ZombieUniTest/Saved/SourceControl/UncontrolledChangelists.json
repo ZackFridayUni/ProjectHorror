@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/HUD/WB_MainHUD.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Weapon_Throwables/BP_ItemBase.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Weapon_Throwables/AC_WeaponThrowables.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Weapon_Throwables/BP_Gun.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Weapon_Throwables/BP_ThrowableItem.uasset",
+				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/KU/86RFDG9Y9HQ9KOGJWV4WEI.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Hospital/FBX/FBX/bed.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Hospital/FBX/FBX/Ceiling_1.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/Hospital/FBX/FBX/Ceiling_light1.uasset",
@@ -460,9 +468,7 @@
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VK/FK5X55YTBLVWO6EUZMEUU1.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QR/9MDVL38AG1ADZVF5JGAWIV.uasset",
 				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9Q/WBFYZC83IN7E3IPP26QU4A.uasset",
-				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TR/9J2RKR0R0GYOUJVCVSLKV7.uasset",
-				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/_Main/HUD/WB_MainHUD.uasset",
-				"C:/Users/agimi/OneDrive/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/f016850o/Documents/GitHub/ProjectHorror/ZombieUniTest/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TR/9J2RKR0R0GYOUJVCVSLKV7.uasset"
 			]
 		}
 	]
