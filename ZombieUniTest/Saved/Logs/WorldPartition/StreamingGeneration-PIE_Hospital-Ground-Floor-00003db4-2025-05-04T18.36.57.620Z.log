@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/Hospital-Ground-Floor
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:2738CD4B4CD9E515EE4F31B66B0F3A4C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:2738CD4B4CD9E515EE4F31B66B0F3A4C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Hospital-Ground-Floor
+----------------------------------------------------------------------------------------------------------------
+Hospital-Ground-Floor - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Hospital-Ground-Floor Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/Hospital-Ground-Floor.Hospital-Ground-Floor:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Hospital-Ground-Floor/E/2W/JC2BCLVV8FO1RETY5ASC06
+
+----------------------------------------------------------------------------------------------------------------
+Hospital-Ground-Floor - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
